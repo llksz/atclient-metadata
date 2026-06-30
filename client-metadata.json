@@ -1,0 +1,1 @@
+{"application_type":"native","client_id":"https://atclient.lksz.name/client-metadata.json","dpop_bound_access_tokens":true,"grant_types":["authorization_code","refresh_token"],"redirect_uris":["name.lksz.atclient:"],"response_types":["code"],"scope":"atproto transition:generic","token_endpoint_auth_method":"none"}
